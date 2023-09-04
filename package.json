@@ -1,4 +1,7 @@
-{
+{ "scripts": {
+    "start": "node src",
+    "test": "jest src/app.test.js"
+  },
   "dependencies": {
     "express": "^4.18.2"
   },

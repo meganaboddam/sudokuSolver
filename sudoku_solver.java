@@ -1,5 +1,3 @@
-package com.august_21;
-
 public class sudoku_solver {
     public static void main(String[] args) {
         char[][] input = {
